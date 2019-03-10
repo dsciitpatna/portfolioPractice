@@ -1,0 +1,47 @@
+#main-header img {
+    width: 100%;
+    height: 100%;
+}
+
+#main-header .port-item {
+    width: 30%;
+}
+
+#main-header .port-item:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+
+.bg-black {
+    color: white;
+    background-color: black;
+}
+
+@media(min-width: 1199px) {
+    .port-item {
+        padding: 3em !important;
+    }
+}
+
+@media(max-width:418px) {
+    .fas {
+        font-size: 17px;
+    }
+}
+
+footer .fas {
+    padding: 5px;
+}
+
+.center-text {
+    margin: 0 auto;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
