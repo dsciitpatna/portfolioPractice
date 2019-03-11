@@ -6,6 +6,6 @@ Deadline: 11th March, 2019
 # Contributors
 
 <ul>
-  <li>[Ritwiz Sinha](https://ritwizsinha.github.io/portfolio)</li>
-  <li>[Vanshika Srivastava](https://vanshikasrivastava16.github.io/portfolio/)</li>
+  <li><a href="https://ritwizsinha.github.io/portfolio">Ritwiz Sinha</a></li>
+  <li><a href="https://vanshikasrivastava16.github.io/portfolio/">Vanshika Srivastava</a></li>
 </ul>
