@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu');
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    /*font-family: 'Pacifico', cursive;
+    font-family: 'Righteous', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif; */
+}
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+}
+.navbar-brand{
+    font-family: 'Pacifico', sans-serif;
+}
+.nav-link{
+    font-size: 16px;
+    margin: 15px;
+    color: black !Important;
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+.nav-link:hover{
+    color: #00e8e8 !Important;
+}
+.active .nav-link{
+    color: #00e8e8 !Important;
+}
+.site-content{
+    background: url(a.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 10% 0;
+    margin-top: 50px;
+}
+.site-title,.site-desc{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.site-title{
+    font-size: 50px;
+}
+.site-desc{
+    font-size: 14px;
+}
+.site-btn1,.site-btn2{
+    margin-top: 5%;
+}
+.site-btn1{
+    color: white;
+    background: black;
+}
+.site-btn2{
+    background: white;
+}
+
+
+
+
+.section-1 .heading-1{
+    margin-top: 8%;
+}
+.section-1 .heading-2{
+    margin-bottom: 5%;
+    font-size: 28px;
+}
+.section-1 .para-1{
+    padding: 0 10%;
+    margin-bottom: 5%;
+}
+.section-1 .card-text, .para-1{
+    color: rgba(0,0,0,.6);
+}
+.section-1{
+    padding-bottom: 2%;
+}
+
+
+
+.section-2{
+    background: url(e.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    border: 10px solid white;
+}
+.section-2 h1{
+    font-family: 'Righteous', cursive;
+    color: whitesmoke;
+    margin-top: 20%;
+    margin-bottom: 4%;
+    width: 80%;
+}
+.section-2 p{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    margin-bottom: 7%;
+    width: 80%;
+    font-weight: bold;
+}
+.section-2 .btn{
+    width: 30%;
+    margin-bottom: 15%;
+    padding: 2% 5%;
+}
+
+
+
+.section-3{
+    padding: 5% 0;
+}
+.section-3 i{
+    color: #00e8e8;
+}
+.section-3 p{
+    color: rgba(0,0,0,.6);
+}
+
+
+
+
+.section-4{
+    padding: 8% 0;
+}
+.section-4 a{
+    color: #00e8e8;
+    font-size: 40px;
+    text-decoration: none;
+}
+.section-4 p{
+    margin-top: 10%;
+    color: white;
+    font-size: 24px;
+}
+
+
+
+.section-5{
+    padding: 3% 0;
+}
+.section-5 i{
+    color: #ef5651;
+}
+.section-5 h5{
+     color: #00e8e8;
+}
