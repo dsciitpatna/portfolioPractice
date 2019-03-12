@@ -15,4 +15,5 @@ Deadline: 11th March, 2019
 <li><a href="https://bhumikashivani2001.github.io/">Bhumika Shivani</a></li>
 <li><a href="https://shashwat211.github.io">Shashwat Mahajan</a></li>
 <li><a href="https://prnvbajaj.github.io/index/">Pranav Bajaj</a></li>
+<li><a href="https://saikathalder34.github.io/">Saikat Halder</a></li>
 </ul>
