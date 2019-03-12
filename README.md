@@ -16,4 +16,5 @@ Deadline: 11th March, 2019
 <li><a href="https://prnvbajaj.github.io/index/">Pranav Bajaj</a></li>
 <li><a href="https://saikathalder34.github.io/">Saikat Halder</a></li>
 <li><a href="https://gopalsingh6932.github.io/">Gopal Singh Rathore</a></li>
+<li><a href="https://kaustav112.github.io/portfolio">Harsh Shah</a></li>
 </ul>
