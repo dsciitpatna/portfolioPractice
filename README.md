@@ -20,5 +20,6 @@ Deadline: 11th March, 2019
 <li><a href="https://kaustav112.github.io/portfolio">Harsh Shah</a></li>
 <li><a href="https://mahathi2000.github.io/">Mahathi</a></li>
 <li><a href="https://narendhiran13.github.io/portfolio">Narendhiran</a></li>
+<li><a href="https://anuj-k-yadav.github.io/portfolio">Anuj Yadav</a></li>
 <li><a href="https://priyanka2799.github.io/">priyanka</a></li>
 </ul>
