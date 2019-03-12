@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <title>portfolio2</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
+        <link rel="stylesheet" href="stylenew.css">
+    </head>
+    <body>
+        <header>
+            <p class="header-brand">Bhumika Shivani</p>
+            <nav>
+                 <ul>
+                    <li><a href="">Personal info</a></li>
+                    <li><a href="">Academics</a></li>
+                    <li><a href="">About me</a></li>
+                </ul>
+            </nav>
+        </header>

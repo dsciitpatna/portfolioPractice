@@ -1,0 +1,120 @@
+header {
+    background-color: #fff;
+    width: 100%;
+    height:100px;
+     
+ }
+ header .header-brand{
+     font-family: 'ZCOOL QingKe HuangYou', cursive;
+     font-size: 24px;
+     color: rgb(36, 34, 34);
+     font-weight: 900;
+     display: inline-block;
+     text-transform: uppercase;
+     margin: 0 auto;
+     text-align: center;
+     padding: 20px 0;
+ 
+ }
+ 
+ header nav ul{
+     display: block;
+     margin: 0 auto;
+     width: fit-content;
+     
+ }
+ 
+ header nav ul li {
+     list-style: none;
+     display: inline-block;
+     float: left;
+     padding: 0 10px;
+ }
+  header nav ul li a {
+     font-size: 16px;
+     color: rgb(39, 38, 38);
+     font-weight: 500;
+     font-family: 'Indie Flower', cursive;
+     text-decoration: none;
+ }
+ @media only screen and (min-width: 1000px){
+    header .header-brand{
+        font-family: 'ZCOOL QingKe HuangYou', cursive;
+        font-size: 30px;
+        color: rgb(36, 34, 34);
+        font-weight: 900;
+        display: block;
+        text-transform: uppercase;
+        margin: 0 auto;
+        text-align: center;
+        padding: 50px 0;
+    
+    }
+    header nav ul li a {
+        font-size: 23px;
+        color: rgb(39, 38, 38);
+        font-weight: 600;
+        font-family: 'Indie Flower', cursive;
+        text-decoration: none;
+    }
+     .wrapper{
+        width: 800px;
+        margin: 0 auto;
+     }
+    .intro{
+        width: 100%;
+        height: 100vh !important;
+        background-image: url('images/chashma.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain !important;
+        display: table;
+        padding-left:50px;
+    } 
+
+ }
+  header nav ul li a:hover {
+     color: red;
+     font-size: 27px;
+ }
+
+.intro{
+    width: 100%;
+    height: calc(100vh - 100px);
+    background-image: url('images/chashma.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 380px 570px;
+    display: table;
+} 
+.intro p{
+    padding-top: 15px;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    color: rgb(231, 120, 120);
+    font weight: 900;
+    
+    line-height:15px;
+}
+.icon{
+    margin: 10px 8px 0;
+    padding-top: 25px;
+    height: 20px;
+}
+.icon div h3{
+    margin: 0 8px 0;
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive ! important;
+    size: 60px;
+}
+.icon div{
+    margin: 10px 8px 0;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.icon div img{
+    padding-left: 10px;
+    width:35px;
+    margin: 0 auto;
+}
