@@ -1,0 +1,213 @@
+body{background-color:orange;
+
+
+
+   }
+  .dv1{font-family:courier;
+      width:100%;
+      height:30%;
+    background-color:white;
+    font-size:25px;
+    text-align:center;
+    padding:20px;
+    margin-bottom:6px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-weight:bold;
+    letter-spacing:2px;
+    color:black;
+    }position:relt
+    ul{
+
+       }
+    li{list-style-type:none;
+    font-weight:bold;
+    display:inline-block;
+
+     }
+
+   .dv3{font-family:courier;
+      width:100%;
+      height:30%;
+    background-color:#e26822;
+    font-size:20px;
+    text-align:center;
+    padding:20px;
+    margin-up:6px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-weight:bold;
+    letter-spacing:2px;
+    color:black;
+   }
+   .dv3:hover{font-size:px;
+        }
+
+   span{display:inline-block;
+      padding:10px;}
+  span:hover{background-color:orange;
+  text-shadow: 1px 1px 1px white;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+    .dv2{width:100%;
+      height:5px;
+    background-color:#e26822;
+    position:relative;
+    top:10px;
+    margin:2px;
+    animation-name:saik;
+    animation-duration:3s;
+    animation-iteration-count:infinite;
+    }
+   .b2{animation-delay:0.5s;}
+   .b3{animation-delay:1s;}
+   @keyframes saik{
+   0%{background-color:#ef7b23;}
+   25%{background-color:#ef9a23;}
+   50%{background-color:#efb523;}
+   75%{background-color:#ebef23;}
+       100%{abckground-color:#ef7b23;}
+
+   }
+ .dv4{width:100%;
+     height:200px;
+   background-color:white;
+   padding:10px;
+   letter-spacing:2px;
+   font-weight:bold;
+   box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       text-indent:;
+   text-align:center;
+   position:relative;
+   top:20px;
+   font-family:courier;
+   font-size:40px;
+   }
+ .dv4:hover{background-color:
+            }
+ .dv5
+  { width:250px;
+    padding:;
+    background-color: black;
+    color:white;
+    font-size:20px;
+    position:fixed;
+    bottom: 10px;
+
+    left:50%;
+    transform:translateX(-50%);
+
+
+  }
+
+
+ .ar{position:relative;
+     top:100px;
+   left:45%;}
+   .bar1{background-color:black;
+      width:7px;
+      height:60px;
+      border:none;
+      display:inline-block;
+      border-radius:10px;
+      animation-name:saik1;
+      animation-duration:2s;
+      animation-iteration-count:infinite;
+    transform-origin:bottom;}
+    .bar2{background-color:black;
+      width:7px;
+      height:40px;
+      border:none;
+      display:inline-block;
+      border-radius:10px;
+      animation-name:saik2;
+      animation-duration:2s;
+      animation-iteration-count:infinite;
+    transform-origin:bottom;}
+    .bar3{background-color:black;
+      width:7px;
+      height:40px;
+      border:none;
+      display:inline-block;
+      border-radius:10px;
+      animation-name:saik3;
+      animation-duration:2s;
+      animation-iteration-count:infinite;
+    transform-origin:bottom;}
+    .bar4{background-color:black;
+      width:7px;
+      height:40px;
+      border:none;
+      display:inline-block;
+      border-radius:10px;
+      animation-name:saik4;
+      animation-duration:2s;
+      animation-iteration-count:infinite;
+    transform-origin:bottom;}
+   .div1{animation-delay:;
+         height:15px;     }
+   .div2{animation-delay:;
+      height:20px;}
+   .div3{animation-delay:;
+      height:25px;}
+   .div4{animation-delay:;
+        height:30px;}
+   .div5{animation-delay:;
+       height:35px;}
+   .div6{animation-delay:}
+   .div7{animation-delay:}
+   .div8{animation-delay:;
+        height:35px;}
+   .div9{animation-delay:;
+     height:30px;}
+   .div10{animation-delay:;
+       height:25px;}
+   .div11{animation-delay:;
+        height:20px;}
+   .div12{animation-delay:;
+        height:15px;}
+
+
+
+
+ @keyframes saik1{
+  0%{background-color:#f99160;}
+  25%{transform:rotate(-45deg);
+       background-color:red;}
+ 50%{transform:translate(0px,0px);
+  background-color:yellow;}
+  75%{transform:rotate(-45deg);
+  background-color:#e26822;}
+   100%{transform:translate(0px,0px);
+     background-color:#5ccec8;}}
+
+ @keyframes saik2{
+  0%{background-color:#f99160;}
+  25%{transform:translate(0px,0px);
+       background-color:red;}
+ 50%{transform:translate(0px,0px);
+ background-color:yellow;}
+ 75%{transform:rotate(-45deg);
+ background-color:#e26822;}
+ 100%{transform:translate(0px,0px);
+   background-color:#5ccec8;}}
+ @keyframes saik3{
+  0%{background-color:#f99160;}
+  25%{transform:translate(0px,0px);
+       background-color:red;}
+ 50%{transform:translate(0px,0px);
+ background-color:yellow;}
+ 75%{transform:rotate(45deg);
+   background-color:#e26822;}
+ 100%{transform:translate(0px,0px);
+    background-color:#5ccec8;}}
+ @keyframes saik4{
+  0%{background-color:#f99160;}
+  25%{transform:rotate(45deg);
+       background-color:red;}
+ 50%{transform:translate(0px,0px);
+ background-color:yellow;}
+ 75%{transform:rotate(45deg);
+ background-color:#e26822;}
+ 100%{transform:translate(0px,0px);
+ background-color:#5ccec8;}
+ }
+
+ .ar{animation-iteration-count:;}
