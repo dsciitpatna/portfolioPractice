@@ -1,0 +1,65 @@
+.main-header{
+	text-align:center;
+	color: rgb(258,1000000,855);
+	font-weight:24000;
+	font-family: Tahoma;
+	text-decoration: underline;
+	background-image: url('back.jfif');
+	border: 1px dotted red;
+	margin: 5px;
+}
+.central{
+	width: 60%;
+
+	margin-left: 240px;
+	color: white;
+	text-align: center;
+	background-image: url('miback.jfif');
+	display: block;
+}
+.lefty{
+	float:left; 
+	margin: 4px;
+	width: 20%;
+	padding-right: 57px;
+	display: block;
+	box-sizing: border-box;
+}
+.righty{
+	float: right;
+	width: 20%;
+	border: 6px;
+	font-style: italic;
+	font-family: Tahoma;
+	margin: 5px;
+	padding: 6px;
+	box-sizing: border-box;
+	background-image: url(download 11(1).jfif);
+}
+a{
+	display: block;
+	color:black;
+	margin:0px;
+	padding:0px;
+}
+a:hover {
+	color:blue;
+
+}
+.ppp{
+	background-image: url(photo-1534793785986-dfbb9a253f30.jfif);
+	text-align: center;
+}
+.themid{
+	background-color: lightgrey;
+}
+
+button{
+	display: block;
+	background-color: orange;
+	color:black;
+	padding-bottom: 10px;
+}
+img{
+	padding-bottom: 50px;
+}
