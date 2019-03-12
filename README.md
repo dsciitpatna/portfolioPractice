@@ -8,4 +8,5 @@ Deadline: 11th March, 2019
 <ul>
   <li><a href="https://ritwizsinha.github.io/portfolio">Ritwiz Sinha</a></li>
   <li><a href="https://vanshikasrivastava16.github.io/portfolio/">Vanshika Srivastava</a></li>
+  <li><a href="https://ashwaniydv.github.io/portfolio">Ashwani Yadav</a></li>
 </ul>
