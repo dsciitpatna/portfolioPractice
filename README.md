@@ -13,5 +13,7 @@ Deadline: 11th March, 2019
 
 <li><a href="https://akshat99.github.io/">Akshat Jain</a></li>
 <li><a href="https://utsavmajhi.github.io/index">Utsav Majhi</a></li>
+<li><a href="https://bhumikashivani2001.github.io/">Bhumika Shivani</a></li>
+<li><a href="https://shashwat211.github.io">Shashwat Mahajan</a></li>
 
 </ul>
