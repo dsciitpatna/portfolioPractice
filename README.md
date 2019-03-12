@@ -12,5 +12,6 @@ Deadline: 11th March, 2019
   <li><a href="https://ashwaniydv.github.io/portfolio">Ashwani Yadav</a></li>
 
 <li><a href="https://akshat99.github.io/">Akshat Jain</a></li>
+<li><a href="https://utsavmajhi.github.io/index">Utsav Majhi</a></li>
 
 </ul>
