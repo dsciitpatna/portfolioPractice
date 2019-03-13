@@ -1,0 +1,48 @@
+.pic {
+background: url("pic.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+h1 {
+
+    color:brown;
+    font-style: basilisk;
+    background-color:rgb(240, 226, 226);
+    font-size: 50px;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(56, 3, 3);
+}
+
+ul{
+
+}
+
+ul li{
+
+    list-style: none;
+    display: inline-block;
+    line-height: 40px;
+    float: left;
+    line-height: 40px;
+
+}
+
+ul li a{
+    display: block;
+    text-decoration: none;
+    font-size: 37px;
+    font-family: basilisk;
+    color: rgb(224, 200, 200);
+    padding: 0 80px;
+}
