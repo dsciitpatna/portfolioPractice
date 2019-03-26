@@ -26,5 +26,5 @@ Deadline: 11th March, 2019
 <li><a href="https://priyanka2799.github.io/">Priyanka Walunj</a></li>
 <li><a href="https://sandeep-shekhawat.github.io/Personal-Repo/">Sandeep Shekhawat</a></li>
 <li><a href="https://hardik-agrawal.github.io/hardik.github.io/">Hardik Agrawal</a></li>
-<li><a href="https://dixitshivani.github.io/">shivani</a></li>
+<li><a href="https://dixitshivani.github.io/portfolio/">shivani</a></li>
 </ul>
