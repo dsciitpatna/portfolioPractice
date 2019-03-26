@@ -1,0 +1,71 @@
+#menu {
+  float: right;
+  width: 100%;
+  padding: 20px 0px;
+  background-color: black;
+}
+
+#menu label {
+  text-size: 10px;
+  padding-left: 20px;
+  padding-right: 40px;
+  color: aqua;
+}
+
+#menu a {
+  padding: 0px 10px;
+}
+
+#pinfo {
+  float: left;
+  width: 16%;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#container {
+  float: left;
+  width: 60%;
+  box-sizing: border-box;
+}
+
+.project1 {
+  color: white;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-image: url("images/prog1.jpg");
+}
+
+.project2 {
+  color: rgb(246, 7, 7);
+  float: left;
+  width: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-image: url("images/prog2.jpg");
+}
+
+.project3 {
+  color: rgb(78, 49, 42);
+  float: left;
+  width: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-image: url("images/prog3.png");
+}
+
+.project4 {
+  color: rgb(15, 163, 22);
+  float: left;
+  width: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-image: url("images/prog4.jpg");
+  background-repeat: no-repeat;
+}
+
+a:hover {
+  color: green;
+}

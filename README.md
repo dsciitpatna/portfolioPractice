@@ -20,4 +20,11 @@ Deadline: 11th March, 2019
 <li><a href="https://kaustav112.github.io/portfolio">Harsh Shah</a></li>
 <li><a href="https://mahathi2000.github.io/">Mahathi</a></li>
 <li><a href="https://narendhiran13.github.io/portfolio">Narendhiran</a></li>
+<li><a href="https://anuj-k-yadav.github.io/portfolio">Anuj Yadav</a></li>
+<li><a href="https://utsavmajhi.github.io/index">Utsav Majhi</a></li>
+<li><a href="https://ankitkr08.github.io/ankitkr09.github.io/">Ankit Kumar</a></li>
+<li><a href="https://priyanka2799.github.io/">Priyanka Walunj</a></li>
+<li><a href="https://sandeep-shekhawat.github.io/Personal-Repo/">Sandeep Shekhawat</a></li>
+<li><a href="https://hardik-agrawal.github.io/hardik.github.io/">Hardik Agrawal</a></li>
+<li><a href="https://dixitshivani.github.io/">shivani</a></li>
 </ul>
