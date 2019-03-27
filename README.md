@@ -27,4 +27,5 @@ Deadline: 11th March, 2019
 <li><a href="https://sandeep-shekhawat.github.io/Personal-Repo/">Sandeep Shekhawat</a></li>
 <li><a href="https://hardik-agrawal.github.io/hardik.github.io/">Hardik Agrawal</a></li>
 <li><a href="https://dixitshivani.github.io/portfolio/">shivani</a></li>
+<li><a href="https://khushigour.github.io/">Khushi Gour</a></li>
 </ul>
