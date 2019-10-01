@@ -3,7 +3,7 @@
 Beginners in Web were given a task to make their Portfolio Page.
 Deadline: 11th March, 2019
 
-# Contributors
+# Contributors of the task
 
 <ul>
 	<li><a href="https://pranaykgupta.github.io/Portfolio/">Pranay Kumar Gupta</a></li>
