@@ -3,6 +3,9 @@
 Beginners in Web were given a task to make their Portfolio Page.
 Deadline: 11th March, 2019
 
+Portfolio classes are to be held on 15th October, 2019 by DSC
+The following portfolios are good examples
+
 # Contributors
 
 <ul>
